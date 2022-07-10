@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 <!--<h3 align="left">About me</h3>
 <hr>
 -->
-- 👩‍🎓 I’m an open source enthusiast and a **Full Stack Developer.**
+- 👩‍🎓 I’m an open source enthusiast and a **Frontend Developer.**
 
-- 🌱 I’m currently learning **Machine Learning.**
-
-- 👯 I’m looking to collaborate on **MERN and MEAN stack projects.**
+- 🌱 I’m currently learning **React Native.**
 
 - 🏒 I’m also working on enhancing **my problem solving skills.**
 
